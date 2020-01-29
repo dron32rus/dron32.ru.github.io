@@ -1,2 +1,0 @@
-#metaloproekti.ru
-сайт
