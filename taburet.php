@@ -36,7 +36,7 @@
        <hr/>
         <center>
         <p>
-        <a href="index.php" id="ssvarka" target=""><h2>на главную</h2></a>
+        <a href="index.html" id="ssvarka" target=""><h2>на главную</h2></a>
         </p>
         </center>
 </html>

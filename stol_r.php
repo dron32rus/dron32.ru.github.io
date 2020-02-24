@@ -43,7 +43,7 @@ $chena = 280;
        <hr/>
         <center>
         <p>
-        <a href="index.php" id="ssvarka" target=""><h2>на главную</h2></a>
+        <a href="index.html" id="ssvarka" target=""><h2>на главную</h2></a>
         </p>
        
         <img src="%D1%81%D1%82%D0%BE%D0%BB.png" alt="пример" title="разборный" width="800" height="500" hspace="4" vspace="4">

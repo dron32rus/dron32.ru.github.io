@@ -30,7 +30,7 @@
     
     <h2><center><em>сварка каркасов</em></center></h2>
     
-    <center><p><a href="index.php" target=""><img src="zhelezo.jpg" alt="" title="на главную" width="200" height="100" hspace="4" vspace="4"></a></p></center>
+    <center><p><a href="index.html" target=""><img src="zhelezo.jpg" alt="" title="на главную" width="200" height="100" hspace="4" vspace="4"></a></p></center>
     
     <p><center><em>примеры типов конструкций</em></center></p>
     
