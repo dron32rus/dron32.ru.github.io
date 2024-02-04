@@ -1,22 +1,4 @@
-<?php
-$chena = 280;
 
-    if($_POST["высота"] == "")
-        print "<center><h1>ошибка</h1><center/><br>введите параметр высота <br> <a href='zhelezo.php'>исправить</a><br>";
-    
-
-    if($_POST["ширина"] == "")
-        print "<center><h1>ошибка</h1><center/><br>введите параметр ширина <br><a href='zhelezo.php'>исправить</a><br>";
-
-
-    if($_POST["длинна"] == "")
-        print "<center><h1>ошибка</h1><center/><br>введите параметр длинна <br/> <a href='zhelezo.php'>исправить</a><br>";
-
-        print "<center><h3>стол разборный (2 боковины, 4 перемычки)<h3/><center>";
-    
-        print "<hr/>" . ((($_POST["длинна"] + $_POST["ширина"] + $_POST["высота"]) * 4) / 600) * 280 * 2 . "<br>" . "руб.";
-        
-?>
 
 <html> 
       
